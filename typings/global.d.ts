@@ -1,0 +1,1 @@
+export type Porsion = "small" | "medium" | "large";
